@@ -1,0 +1,8 @@
+body{background-color: yellow}
+.caja{background-color: aqua}
+body{border-right: "900"}
+.container{float: left;
+display: flex;}
+.card {background-color: aquamarine;
+    
+}

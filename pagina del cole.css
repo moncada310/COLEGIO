@@ -1,0 +1,17 @@
+body{
+    background-color: lightcyan;
+}
+
+.container{
+    display: flex;
+    
+    
+    }
+.card{
+    
+    
+    float: left;
+    
+    
+    
+}

@@ -1,0 +1,114 @@
+body{
+    background-color: lightcyan;
+}
+
+.card{
+    float: left;
+    margin-left: 10%;
+    padding-left: %;
+    padding-bottom: 6px;
+    margin-bottom: 5%;
+}
+
+
+#botones{
+    float:right;
+    margin: 5px;
+     height: 67px;
+color: blueviolet;
+}
+
+.imagenes{
+     width: 1000px;
+      height: 1550;
+   float: none;
+    margin: 50px;
+    padding: 50px;
+
+}
+
+
+
+
+
+#tarjetas1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+#logo.1{width: 70px;
+    height: 70px;
+    
+    
+}
+.dropend:hover > .dropdown-menu {
+    display: block;
+    margin-top: 0.125em;
+    margin-left: 0.125em;
+    transition: 0.5s all ease;
+}
+
+@media screen and (min-width: 769px) {
+    .dropend:hover > .dropdown-menu {
+      position: absolute;
+      top: 0;
+      left: 100%;
+      transform: translateY(-2%);
+    }
+}
+
+.dropdown-item{
+    color: black;
+}
+nav{
+    opacity: .9;
+    width: 100%;
+    z-index: 2000;
+    
+}
+
+.nav-item{
+    color: black;
+    font-weight: 700;
+}
+
+
+.fa-brands{
+    color: black;
+    margin: 10px;
+    align-items: center;
+    transition: all 500ms ease;
+       z-index: 1000;
+}
+
+.fa-brands:hover{
+    color: gray;
+    transform: translateY(-2%);
+           z-index: 1000;
+}
+
+.redes{align-items: center;
+    justify-content: center;
+    align-content: center;
+    display: flex;
+       z-index: ;
+
+
+}
+.colegio{ font-family:Forte; 
+   
+    text-shadow: 3px 1px 4px #14430d, 0 2 4px white;
+       z-index: 1000;
+    
+}
+
+ .card:hover{
+     box-shadow: 4px 4px 4px 4px;
+    background-color: gray;
+    transform: scale(1);
+            z-index: ;
+     
+     
