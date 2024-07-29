@@ -1,0 +1,50 @@
+.card{
+    float: left;
+    margin-left: 3%;
+    padding-left: 3px;
+    padding-bottom: 3px;
+    margin-bottom: 5%;
+}
+ 
+.card{
+    float: left;
+    width: 100px;
+    background-color: #000000;
+    padding: 2px;
+    margin: 10px;
+    box-shadow: 7px 7px 7px  #232222;
+    transition: background-color 0.5s;
+    transition: all 500ms ease;
+    border-radius: 10px;
+    display: flex;
+   justify-content: center;
+}
+
+.card-body{
+
+    background-color: darkgray;
+}
+
+
+.card-img-top{
+    width: px;
+    height:px;
+    border-radius: 10px;
+
+}
+.btn-primary{
+    background-color: rgb(red);
+    border-radius: 5px;
+}
+
+
+.card-text{
+    text-align: center;
+    font-family: Dishcek;
+}
+
+.card:hover{
+    background-color: rgb(250, 196, 177);
+    transform: translateY(-1%);
+    
+}
